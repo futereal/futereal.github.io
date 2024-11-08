@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow: 
-
-Sitemap: https://temu.dodrs.com/temu.xml.gz
